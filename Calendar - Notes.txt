@@ -1,0 +1,4 @@
+Program, u svojoj prvotnoj verziji 1.0, podržava dodavanje najviše jednog događaja (ali ne i brisanje i uređivanje istog).
+	Brisanje je potrebno izvršiti u Microsoftovom SQL Server Management Studia
+
+Kako bi se mogli spojiti na bazu podataka, izrađenu u MS SSMS-u, potrebno je samo promijeniti "Data Source" u 18.liniji programa (vrijednost varijable "MyCon").
